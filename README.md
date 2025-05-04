@@ -49,4 +49,8 @@ Given a workflow as a directed graph (tree-like with possible converging paths),
 
 1. Compile:
    ```bash
-   javac src/WorkflowExecutor.java
+   javac WorkflowExecutor.java
+
+2. Run:
+   ```bash
+   java WorkflowExecutor.java
